@@ -1,0 +1,2 @@
+# device_nokia1
+ 
