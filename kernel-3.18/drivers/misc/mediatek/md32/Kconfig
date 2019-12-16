@@ -1,2 +1,0 @@
-config MD32_SUPPORT
-	bool "Specifiy if Platform Support MD32"

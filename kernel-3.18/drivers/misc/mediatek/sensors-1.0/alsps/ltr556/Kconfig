@@ -1,3 +1,0 @@
-config MTK_LTR556
-	bool "LTR556 for MediaTek package"
-	default n

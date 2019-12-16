@@ -1,6 +1,0 @@
-# RTC Related
-config MTK_RTC
-	bool "MediaTek Real Time Clock Support"
-	default n
-	---help---
-	  MediaTek RTC driver

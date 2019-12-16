@@ -1,4 +1,0 @@
-ifeq ($(CONFIG_TRUSTONIC_TEE_SUPPORT),y)
-	# armv8
-	obj-$(CONFIG_TRUSTONIC_TEE_SUPPORT) += $(subst ",,$(CONFIG_TRUSTONIC_TEE_VERSION))/
-endif
